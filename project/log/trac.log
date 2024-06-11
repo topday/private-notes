@@ -1,0 +1,73 @@
+2024-06-11 15:25:12,980 Trac[env] INFO: -------------------------------- environment startup [Trac 1.6] --------------------------------
+2024-06-11 15:25:13,230 Trac[env] INFO: Wrote sample configuration file with the new settings and their default values: /var/www/project/conf/trac.ini.sample
+2024-06-11 15:25:13,462 Trac[admin] INFO: Installing default wiki pages
+2024-06-11 15:25:13,463 Trac[admin] INFO: CamelCase imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/CamelCase
+2024-06-11 15:25:13,464 Trac[admin] INFO: InterMapTxt imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/InterMapTxt
+2024-06-11 15:25:13,465 Trac[admin] INFO: InterTrac imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/InterTrac
+2024-06-11 15:25:13,465 Trac[admin] INFO: InterWiki imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/InterWiki
+2024-06-11 15:25:13,465 Trac[admin] INFO: PageTemplates imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/PageTemplates
+2024-06-11 15:25:13,466 Trac[admin] INFO: RecentChanges imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/RecentChanges
+2024-06-11 15:25:13,466 Trac[admin] INFO: SandBox imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/SandBox
+2024-06-11 15:25:13,467 Trac[admin] INFO: TicketQuery imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TicketQuery
+2024-06-11 15:25:13,467 Trac[admin] INFO: TitleIndex imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TitleIndex
+2024-06-11 15:25:13,468 Trac[admin] INFO: TracAccessibility imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracAccessibility
+2024-06-11 15:25:13,468 Trac[admin] INFO: TracAdmin imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracAdmin
+2024-06-11 15:25:13,469 Trac[admin] INFO: TracBackup imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracBackup
+2024-06-11 15:25:13,469 Trac[admin] INFO: TracBatchModify imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracBatchModify
+2024-06-11 15:25:13,470 Trac[admin] INFO: TracBrowser imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracBrowser
+2024-06-11 15:25:13,470 Trac[admin] INFO: TracCgi imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracCgi
+2024-06-11 15:25:13,471 Trac[admin] INFO: TracChangeLog imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracChangeLog
+2024-06-11 15:25:13,471 Trac[admin] INFO: TracChangeset imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracChangeset
+2024-06-11 15:25:13,472 Trac[admin] INFO: TracEnvironment imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracEnvironment
+2024-06-11 15:25:13,472 Trac[admin] INFO: TracFastCgi imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracFastCgi
+2024-06-11 15:25:13,473 Trac[admin] INFO: TracFineGrainedPermissions imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracFineGrainedPermissions
+2024-06-11 15:25:13,473 Trac[admin] INFO: TracGuide imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracGuide
+2024-06-11 15:25:13,474 Trac[admin] INFO: TracImport imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracImport
+2024-06-11 15:25:13,474 Trac[admin] INFO: TracIni imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracIni
+2024-06-11 15:25:13,475 Trac[admin] INFO: TracInstall imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracInstall
+2024-06-11 15:25:13,475 Trac[admin] INFO: TracInterfaceCustomization imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracInterfaceCustomization
+2024-06-11 15:25:13,476 Trac[admin] INFO: TracLinks imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracLinks
+2024-06-11 15:25:13,476 Trac[admin] INFO: TracLogging imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracLogging
+2024-06-11 15:25:13,477 Trac[admin] INFO: TracModPython imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracModPython
+2024-06-11 15:25:13,477 Trac[admin] INFO: TracModWSGI imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracModWSGI
+2024-06-11 15:25:13,477 Trac[admin] INFO: TracNavigation imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracNavigation
+2024-06-11 15:25:13,478 Trac[admin] INFO: TracNotification imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracNotification
+2024-06-11 15:25:13,478 Trac[admin] INFO: TracPermissions imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracPermissions
+2024-06-11 15:25:13,479 Trac[admin] INFO: TracPlugins imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracPlugins
+2024-06-11 15:25:13,479 Trac[admin] INFO: TracQuery imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracQuery
+2024-06-11 15:25:13,480 Trac[admin] INFO: TracReports imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracReports
+2024-06-11 15:25:13,480 Trac[admin] INFO: TracRepositoryAdmin imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracRepositoryAdmin
+2024-06-11 15:25:13,481 Trac[admin] INFO: TracRevisionLog imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracRevisionLog
+2024-06-11 15:25:13,481 Trac[admin] INFO: TracRoadmap imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracRoadmap
+2024-06-11 15:25:13,482 Trac[admin] INFO: TracRss imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracRss
+2024-06-11 15:25:13,482 Trac[admin] INFO: TracSearch imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracSearch
+2024-06-11 15:25:13,483 Trac[admin] INFO: TracStandalone imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracStandalone
+2024-06-11 15:25:13,483 Trac[admin] INFO: TracSupport imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracSupport
+2024-06-11 15:25:13,484 Trac[admin] INFO: TracSyntaxColoring imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracSyntaxColoring
+2024-06-11 15:25:13,484 Trac[admin] INFO: TracTickets imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracTickets
+2024-06-11 15:25:13,485 Trac[admin] INFO: TracTicketsCustomFields imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracTicketsCustomFields
+2024-06-11 15:25:13,485 Trac[admin] INFO: TracTimeline imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracTimeline
+2024-06-11 15:25:13,486 Trac[admin] INFO: TracUnicode imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracUnicode
+2024-06-11 15:25:13,486 Trac[admin] INFO: TracUpgrade imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracUpgrade
+2024-06-11 15:25:13,486 Trac[admin] INFO: TracWiki imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracWiki
+2024-06-11 15:25:13,487 Trac[admin] INFO: TracWorkflow imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/TracWorkflow
+2024-06-11 15:25:13,487 Trac[admin] INFO: WikiDeletePage imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/WikiDeletePage
+2024-06-11 15:25:13,488 Trac[admin] INFO: WikiFormatting imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/WikiFormatting
+2024-06-11 15:25:13,488 Trac[admin] INFO: WikiHtml imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/WikiHtml
+2024-06-11 15:25:13,489 Trac[admin] INFO: WikiMacros imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/WikiMacros
+2024-06-11 15:25:13,489 Trac[admin] INFO: WikiNewPage imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/WikiNewPage
+2024-06-11 15:25:13,490 Trac[admin] INFO: WikiPageNames imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/WikiPageNames
+2024-06-11 15:25:13,490 Trac[admin] INFO: WikiProcessors imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/WikiProcessors
+2024-06-11 15:25:13,491 Trac[admin] INFO: WikiRestructuredText imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/WikiRestructuredText
+2024-06-11 15:25:13,491 Trac[admin] INFO: WikiRestructuredTextLinks imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/WikiRestructuredTextLinks
+2024-06-11 15:25:13,492 Trac[admin] INFO: WikiStart imported from /usr/local/lib/python3.8/site-packages/trac/wiki/default-pages/WikiStart
+2024-06-11 15:25:27,074 Trac[env] INFO: -------------------------------- environment startup [Trac 1.6] --------------------------------
+2024-06-11 15:25:27,302 Trac[perm] INFO: Granted permission for TRAC_ADMIN to admin
+2024-06-11 15:25:29,659 Trac[env] INFO: -------------------------------- environment startup [Trac 1.6] --------------------------------
+2024-06-11 15:25:29,865 Trac[env] WARNING: [trac] base_url option not set in configuration, generated links may be incorrect
+2024-06-11 15:25:30,382 Trac[chrome] WARNING: File your_project_logo.png not found in any of ['/var/www/project/htdocs']
+2024-06-11 15:25:30,382 Trac[main] WARNING: [192.168.1.122] HTTPNotFound: 404 Not Found (File your_project_logo.png not found), <RequestWithSession "GET '/chrome/site/your_project_logo.png'">, referrer 'http://bee.lc:1080/project'
+2024-06-11 15:44:01,280 Trac[env] INFO: -------------------------------- environment startup [Trac 1.6] --------------------------------
+2024-06-11 15:44:04,712 Trac[env] WARNING: [trac] base_url option not set in configuration, generated links may be incorrect
+2024-06-11 15:44:05,082 Trac[chrome] WARNING: File your_project_logo.png not found in any of ['/var/www/project/htdocs']
+2024-06-11 15:44:05,083 Trac[main] WARNING: [192.168.1.122] HTTPNotFound: 404 Not Found (File your_project_logo.png not found), <RequestWithSession "GET '/chrome/site/your_project_logo.png'">, referrer 'http://bee.lc:1080/project'
