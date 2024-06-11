@@ -1,0 +1,15 @@
+services:
+  project:
+    build:
+      context: ./../
+      dockerfile: ./Dockerfile
+    working_dir: /var/www/project
+    #restart: always
+    volumes:
+      - ./../assets:/var/www/assets
+      - ./../project:/var/www/project
+    env_file:
+      - ./../.env
+    ports:
+      - ${PROJECT_PORT}:${PROJECT_PORT}
+    command: bash -c 'tracd --port ${PROJECT_PORT}  --basic-auth="project,/var/www/assets/.htpasswd,info" /var/www/project'
